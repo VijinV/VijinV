@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm VIJIN VINOD</h1>
-<h3 align="center">Self taught Backend Developer based on Trivandrum Kerala with a Strong Background in NODEJS Love to add more features in Web app using complex api ,and problem solving and cares about writing maintainable code.</h3>
+<h1 align="center">👋 Howdy!</h1>
+<h3 align="center">I'm a passionate MERN stack developer with a heart that beats for backend development using Node.js. 🚀 With a year of hands-on experience under my belt, I've immersed myself in the world of web development and found my true calling in crafting robust and efficient server-side solutions.</h3>
+<h3>Let's connect and explore the boundless possibilities of backend development together! 🌐</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijinv" alt="vijinv" /></a> </p>
 
