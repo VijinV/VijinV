@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijinv" alt="vijinv" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps,React**
+- 🌱 I’m currently learning **Next js, DevOps**
 
 - 📝When ever I am free I will post article [https://medium.com/@vfcvijin](https://medium.com/@vfcvijin)
 
 - 💬 Ask me about **Node.js,HTML5,CSS,Bootstrap,hbs,Jenkins,Sonarqube,Nginx,node.js Production Hosting**
 
-- 📫 How to reach me **vfcvijin@gmail.com**
+- 📫 How to reach me **vijinvinod.dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FykCHG2WsSWvahkoQohMYfC8pVCuSIqq/view?usp=drivesdk](https://drive.google.com/file/d/1FykCHG2WsSWvahkoQohMYfC8pVCuSIqq/view?usp=drivesdk)
 
