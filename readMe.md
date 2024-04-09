@@ -1,18 +1,18 @@
 <h1 align="center">👋 Howdy!</h1>
-<h3 align="center">I'm a passionate MERN stack developer with a heart that beats for backend development using Node.js. 🚀 With a year of hands-on experience under my belt, I've immersed myself in the world of web development and found my true calling in crafting robust and efficient server-side solutions.</h3>
+<h3 align="center">I'm a passionate MERN stack developer with a heart that beats for backend development using Node.js. 🚀 I've immersed myself in the world of web development and found my true calling in crafting robust and efficient server-side solutions.</h3>
 <h3>Let's connect and explore the boundless possibilities of backend development together! 🌐</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijinv" alt="vijinv" /></a> </p>
 
-- 🌱 I’m currently learning **Next js, DevOps**
+- 🌱 I’m currently learning **Three JS**
 
-- 📝When ever I am free I will post article [https://medium.com/@vfcvijin](https://medium.com/@vfcvijin)
+- 📝When ever I am free I will post article [https://medium.com/@vfcvijin](https://medium.com/@vijinvinod)
 
-- 💬 Ask me about **Node.js,HTML5,CSS,Bootstrap,hbs,Jenkins,Sonarqube,Nginx,node.js Production Hosting**
+- 💬 Ask me about **Node JS,Jenkins, Sonarqube, Nginx, JavaScript, TypeScript, Tailwind, Git**
 
 - 📫 How to reach me **vijinvinod.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FykCHG2WsSWvahkoQohMYfC8pVCuSIqq/view?usp=drivesdk](https://drive.google.com/file/d/1FykCHG2WsSWvahkoQohMYfC8pVCuSIqq/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1l7wCrH7z172-9_jonbhJTFS7PvIV8OWw/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
