@@ -16,6 +16,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijinvinod/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijinvinod/0" alt="Recent Article 0"> 
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
