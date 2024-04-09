@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1l7wCrH7z172-9_jonbhJTFS7PvIV8OWw/view?usp=sharing)
 
 <!-- BLOG-POST-LIST:START -->
-<h1 align="left">My Blogs</h1>
+<h1 align="left">Recent Blogs</h1>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijinvinod/0">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijinvinod/0" alt="Recent Article 0">
@@ -29,13 +29,6 @@
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijinvinod/2" alt="Recent Article 2">
 </a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijinvinod/3">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijinvinod/3" alt="Recent Article 3">
-</a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijinvinod/4">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijinvinod/4" alt="Recent Article 4">
-</a>
 <!-- BLOG-POST-LIST:END -->
 
 
